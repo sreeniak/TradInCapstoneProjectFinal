@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "637950026582",
+    "firebase_url": "https://tradin-capstone-default-rtdb.firebaseio.com",
+    "project_id": "tradin-capstone",
+    "storage_bucket": "tradin-capstone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637950026582:android:21c405995db70fdd886cf7",
+        "android_client_info": {
+          "package_name": "com.example.tradin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637950026582-2kfimo60oaq6fju20oc5tpmmaa4cue89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPVaYdCQ5RVTpspmI1lE7jppQ1_BZAoIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637950026582-2kfimo60oaq6fju20oc5tpmmaa4cue89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
